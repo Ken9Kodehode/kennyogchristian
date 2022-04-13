@@ -9,6 +9,10 @@
 
 - [ 💹 ] Kode ferdig CSS
 
+- [ 💹 ] Lage ekstern img mappe
+
+- [ 💹 ] Legge png's i ekstern mappe
+
 - [ 💹 ] Lage ekstern JavaScript fil
 
 - [ 💹 ] Lage comments i koden
