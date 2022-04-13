@@ -17,7 +17,7 @@
 Et par ting jeg tenker vi burde bruke i JavaScript
 
 **InnerHTML** - 
-**EventListener**
+**EventListener** -
 **Math.floor** - 
 **Math.random**
 
