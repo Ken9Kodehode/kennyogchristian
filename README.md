@@ -16,7 +16,7 @@
 
 Et par ting jeg tenker vi burde bruke i JavaScript
 
-**InnerHTML**
+**InnerHTML** - 
 **EventListener**
 
 
