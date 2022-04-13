@@ -17,6 +17,7 @@ Noe som kan gjøres er å bruke eventlistener så når man trykker "pluss" eller
 
 
 **InnerHTML**
+**EventListener**
 
 
 Andre ting vi må huske så før det på 👍 
