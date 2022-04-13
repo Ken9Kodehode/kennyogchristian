@@ -3,13 +3,15 @@
 
 ### Sjekk liste til Påske Oppgave
 
-- [💹 ] Lage index.html (Her har jeg brukt classes til CSS og PNG's) 
+- [ 💹 ] Lage index.html (Her har jeg brukt classes til CSS og PNG's) 
 
-- [💹  ] Lage ekstern CSS fil (Her har jeg brukt z-index)
+- [ 💹  ] Lage ekstern CSS fil (Her har jeg brukt z-index)
 
-- [ 💹] Kode ferdig CSS
+- [ 💹 ] Kode ferdig CSS
 
 - [ 💹 ] Lage ekstern JavaScript fil
+
+- [ 💹 ] Lage comments i koden
 
 - [ ❌ ] Kode ferdig JavaScript
 
