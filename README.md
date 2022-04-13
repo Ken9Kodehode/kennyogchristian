@@ -1,3 +1,3 @@
 # Påske opggave ^_^
 
-[img](https://user-images.githubusercontent.com/98322694/163167941-c1bfe4ad-f02f-4991-b4ba-22ef5ecf028c.png)
+![img](https://user-images.githubusercontent.com/98322694/163168007-efb52862-5c38-49fd-882f-633cfcb4aa21.png)
