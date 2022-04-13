@@ -1,5 +1,6 @@
 /*CSS Styling*/
 
+/*Pluss figuren posisjon*/
 .pluss img {
     bottom: 675px;
     left: 450px;
@@ -7,6 +8,7 @@
     z-index: +1;
 }
 
+/*Minus figuren posisjon*/
 .minus img {
     position: relative;
     bottom: 500px;
@@ -14,6 +16,7 @@
     z-index: +1;
 }
 
+/*Tallet i midten av pluss og minus*/
 p {
     position: relative;
     font-size: 48px;
@@ -23,6 +26,7 @@ p {
     color: white;
 }
 
+/*Dette er "oransje" fargen som skal endres farge på hver gang vi kommer på et rundt tall*/
 .grab-me { 
     position:absolute;
     width: 500px;
