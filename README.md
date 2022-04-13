@@ -5,7 +5,7 @@
 
 - [💹 ] Lage index.html 
 
-- [💹  ] Lage ekstern CSS fil
+- [💹  ] Lage ekstern CSS fil (Her har jeg brukt png's, og z-index)
 
 - [ 💹] Kode ferdig CSS
 
