@@ -18,6 +18,8 @@ Et par ting jeg tenker vi burde bruke i JavaScript
 
 **InnerHTML** - 
 **EventListener**
+**Math.floor** - 
+**Math.random**
 
 
 Andre ting som burde komme med, bare før det opp her 👍
