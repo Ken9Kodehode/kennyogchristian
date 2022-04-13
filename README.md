@@ -13,8 +13,8 @@
 
 - [ ❌ ] Kode ferdig JavaScript
 
-Noe som kan gjøres er å bruke eventlistener så når man trykker "pluss" eller "minus" på tastaturet så endrer man tallet
 
+Et par ting jeg tenker vi burde bruke i JavaScript
 
 **InnerHTML**
 **EventListener**
