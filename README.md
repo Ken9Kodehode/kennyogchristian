@@ -20,7 +20,7 @@ Et par ting jeg tenker vi burde bruke i JavaScript
 **EventListener**
 
 
-Andre ting vi må huske så før det på 👍 
+Andre ting som burde komme med, bare før det opp her :)
 
 
 ![img](https://user-images.githubusercontent.com/98322694/163168007-efb52862-5c38-49fd-882f-633cfcb4aa21.png)
