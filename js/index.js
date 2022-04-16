@@ -1,6 +1,5 @@
 //JavaScript skal skrives her :)
 
-let colorArray = ["AliceBlue", "Coral", "Crimson", "Yellow", "Lavender", "Chartreuse", "Fuchsia", "PaleGreen"]
 
 function addValue()
 {
