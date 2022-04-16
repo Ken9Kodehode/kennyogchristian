@@ -21,7 +21,7 @@ p {
     position: relative;
     font-size: 48px;
     z-index: +1;
-    top: 440px;
+    top: 490px;
     left: 540px;
     color: white;
 }
@@ -31,9 +31,58 @@ p {
     position:absolute;
     width: 500px;
     height: 200px;
-    top: 300px;
+    top: 450px;
     left: 278px;
     radius: 52px;
     background: #f87429;
     border-radius: 52px;
+}
+
+.pluss img:hover {
+    cursor: pointer;
+}
+
+.minus img:hover {
+    cursor: pointer;
+}
+
+.minus-btn {
+    position: fixed;
+    font-size: 100px;
+    margin-left: 490px;
+    top: 560px;
+    z-index: +2; 
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;   
+    color: transparent;      
+}
+
+input {
+    position: relative;
+    font-size: 48px;
+    max-width: 100px; 
+    margin-left: 260px;
+    background-color: transparent;
+    background-repeat:no-repeat;  
+    border: none;
+    color: white;
+    bottom: 50px;
+}
+
+
+.add-btn {
+    position: fixed;
+    font-size: 100px;
+    margin-left: 500px;
+    top: 200px;
+    z-index: +10;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;   
+    color: transparent;   
 }
