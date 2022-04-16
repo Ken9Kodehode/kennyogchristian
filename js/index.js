@@ -17,7 +17,7 @@ function removeValue()
     document.getElementById('number').value = value;
 }
 
-//Change color randomly when hitting "pluss"
+//Change color randomly when hitting "pluss png"
 
 var buton=document.getElementById("butonPluss");
 var allchar="0123456789ABCDEF";
@@ -32,7 +32,8 @@ for(var i=0; i<6; i++){
 document.body.style.backgroundColor= "#"+randcol;
 }
 
-//Change color randomly when hitting "minus"
+//Change color randomly when hitting "minus png"
+
 var buton=document.getElementById("butonMinus");
 var allchar="0123456789ABCDEF";
 
