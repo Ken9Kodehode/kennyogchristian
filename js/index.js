@@ -18,5 +18,16 @@ function removeValue()
     document.getElementById('number').value = value;
 }
 
+var buton=document.getElementById("butonPluss");
+var allchar="0123456789ABCDEF";
 
+buton.addEventListener("click",changeColor);
+
+function changeColor(){
+  var  randcol= "";
+for(var i=0; i<6; i++){
+   randcol += allchar[Math.floor(Math.random()*16)];
+}
+document.body.style.backgroundColor= "#"+randcol;
+}
 
