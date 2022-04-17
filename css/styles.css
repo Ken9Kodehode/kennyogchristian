@@ -37,16 +37,16 @@ p {
     background: #f87429;
     border-radius: 52px;
 }
-
+/*Hover effekt til pluss btn*/
 .pluss img:hover {
     cursor: pointer;
 }
-
+/*Hover effekt til minus btn*/
 .minus img:hover {
     cursor: pointer;
 }
 
-/* Hidden minus button */
+/* Hidden minus button w/ z-index*/
 .minus-btn {
     position: fixed;
     font-size: 100px;
@@ -60,7 +60,7 @@ p {
     overflow: hidden;   
     color: transparent;      
 }
-
+/*Input (Bare tall syntes og selve input boxen er 'hidden'*/
 input {
     position: relative;
     font-size: 48px;
@@ -74,7 +74,7 @@ input {
     bottom: 50px;
 }
 
-
+/*Hidden pluss button w/ z-index*/
 .add-btn {
     position: fixed;
     font-size: 100px;
