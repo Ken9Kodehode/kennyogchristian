@@ -1,4 +1,4 @@
-//JavaScript skal skrives her :)
+//Easter JavaScript
 
 //Funtion to add value while clicking pluss
 function addValue()
@@ -17,13 +17,12 @@ function removeValue()
     document.getElementById('number').value = value;
 }
 
-//Change color randomly when hitting "pluss png"
 
+//Pluss button from ID
 var buton=document.getElementById("butonPluss");
 var allchar="0123456789ABCDEF";
-
 buton.addEventListener("click",changeColor);
-
+//Change color randomly when hitting "pluss png"
 function changeColor(){
   var  randcol= "";
 for(var i=0; i<6; i++){
@@ -32,13 +31,10 @@ for(var i=0; i<6; i++){
 document.body.style.backgroundColor= "#"+randcol;
 }
 
-//Change color randomly when hitting "minus png"
 
+//Minus button from ID
 var buton=document.getElementById("butonMinus");
-var allchar="0123456789ABCDEF";
-
-buton.addEventListener("click",changeColor);
-
+//Change color randomly when hitting "minus png"
 function changeColor(){
   var  randcol= "";
 for(var i=0; i<6; i++){

@@ -1,6 +1,6 @@
 /*CSS Styling*/
 
-/*Pluss figuren posisjon*/
+/*Pluss figure position*/
 .pluss img {
     bottom: 675px;
     left: 450px;
@@ -8,7 +8,7 @@
     z-index: +1;
 }
 
-/*Minus figuren posisjon*/
+/*Minus figure position*/
 .minus img {
     position: relative;
     bottom: 500px;
@@ -16,7 +16,7 @@
     z-index: +1;
 }
 
-/*Tallet i midten av pluss og minus*/
+/*This paragraph is actually not in use anymore, this is from a earlier attempt*/
 p {
     position: relative;
     font-size: 48px;
@@ -26,7 +26,7 @@ p {
     color: white;
 }
 
-/*Dette er "oransje" fargen som skal endres farge på hver gang vi kommer på et rundt tall*/
+/*This is the orange rectangle thats supposed to change color every 10th number*/
 .grab-me { 
     position:absolute;
     width: 500px;
@@ -37,11 +37,11 @@ p {
     background: #f87429;
     border-radius: 52px;
 }
-/*Hover effekt til pluss btn*/
+/*Hover effect for pluss btn*/
 .pluss img:hover {
     cursor: pointer;
 }
-/*Hover effekt til minus btn*/
+/*Hover effect for minus btn*/
 .minus img:hover {
     cursor: pointer;
 }
@@ -60,7 +60,7 @@ p {
     overflow: hidden;   
     color: transparent;      
 }
-/*Input (Bare tall syntes og selve input boxen er 'hidden'*/
+/*Input (Only the number is shown in HTML, rest of input is 'hidden'*/
 input {
     position: relative;
     font-size: 48px;
