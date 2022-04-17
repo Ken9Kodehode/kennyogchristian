@@ -1,6 +1,6 @@
 //JavaScript skal skrives her :)
 
-
+//Funtion to add value while clicking pluss
 function addValue()
 {
     var value = parseInt(document.getElementById('number').value, 10);
@@ -8,7 +8,7 @@ function addValue()
     value++;
     document.getElementById('number').value = value;
 }
-
+//Funtion to take away value when clicking minus
 function removeValue()
 {
     var value = parseInt(document.getElementById('number').value, 10);
