@@ -17,19 +17,7 @@
 
 - [ 💹 ] Lage comments i koden
 
-- [ ❌ ] Kode ferdig JavaScript
-
-
-Et par ting jeg tenker vi burde bruke i JavaScript
-
-**InnerHTML** - 
-**EventListener** -
-**Math.floor** - 
-**Math.random**
-
-
-Andre ting som burde komme med, bare før det opp her 👍
-
+- [ Semi Ferdig ] Kode ferdig JavaScript
 
 ![img](https://user-images.githubusercontent.com/98322694/163168007-efb52862-5c38-49fd-882f-633cfcb4aa21.png)
 
