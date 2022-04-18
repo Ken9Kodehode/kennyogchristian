@@ -22,9 +22,9 @@ function removeValue()
 var button=document.getElementById("buttonPluss");
 var allchar="0123456789ABCDEF";
 //Listen for event "click"
-button.addEventListener("click",changeColor);
+button.addEventListener("click",PlusChangeColor);
 //Change color randomly when hitting "pluss png"
-function changeColor(){
+function PlusChangeColor(){
   var  randcol= "";
 for(var i=0; i<6; i++){
    randcol += allchar[Math.floor(Math.random()*16)];
@@ -37,9 +37,9 @@ document.body.style.backgroundColor= "#"+randcol;
 var button=document.getElementById("buttonMinus");
 var allchar="0123456789ABCDEF";
 //Listen for event "click"
-button.addEventListener("click",changeColor);
+button.addEventListener("click",minusChangeColor);
 //Change color randomly when hitting "minus png"
-function changeColor(){
+function minusChangeColor(){
   var  randcol= "";
 for(var i=0; i<6; i++){
   randcol += allchar[Math.floor(Math.random()*16)];
