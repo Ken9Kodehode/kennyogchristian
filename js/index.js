@@ -35,11 +35,13 @@ document.body.style.backgroundColor= "#"+randcol;
 
 //Minus button from ID
 var button=document.getElementById("buttonMinus");
+//Listen for event "click"
+button.addEventListener("click",changeColor);
 //Change color randomly when hitting "minus png"
 function changeColor(){
   var  randcol= "";
 for(var i=0; i<6; i++){
-   randcol += allchar[Math.floor(Math.random()*16)];
+  randcol += allchar[Math.floor(Math.random()*16)];
 }
 document.body.style.backgroundColor= "#"+randcol;
 }
