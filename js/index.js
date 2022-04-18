@@ -1,7 +1,6 @@
 //Easter JavaScript
 
 //Simple funtion to add value while clicking pluss button
-//Under the png image is actually a transparent button thats linked to this function
 function addValue()
 {
     var value = parseInt(document.getElementById('number').value, 10);
@@ -10,7 +9,6 @@ function addValue()
     document.getElementById('number').value = value;
 }
 //Simple funtion to take away value when clicking minus button
-//Under the png image is actually a transparent button thats linked to this function
 function removeValue()
 {
     var value = parseInt(document.getElementById('number').value, 10);
@@ -22,10 +20,8 @@ function removeValue()
 
 //Pluss button from ID
 var button=document.getElementById("buttonPluss");
-//For changeColor function
 var allchar="0123456789ABCDEF";
-//EventListener that listens for 'click'
-//This EventListener is for colorchange
+//Listen for event "click"
 button.addEventListener("click",changeColor);
 //Change color randomly when hitting "pluss png"
 function changeColor(){
@@ -46,7 +42,4 @@ for(var i=0; i<6; i++){
    randcol += allchar[Math.floor(Math.random()*16)];
 }
 document.body.style.backgroundColor= "#"+randcol;
-                                                  //This can be used to grab the rectangle but need to put z-index: +1; in css first!
-                                                  //document.getElementById("test").style.backgroundColor= "#"+randcol;
 }
-
