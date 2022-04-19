@@ -1,7 +1,7 @@
 /*CSS Styling*/
 body {
     display: flexbox;
-    position: fixed;
+    position: fixed
 }
 /*Pluss figure position*/
 .pluss img {
@@ -93,11 +93,14 @@ input {
 }
 
 #easter3 {
+    font-size: 64px;
     position: relative;
-    left: 476px;
-    bottom: 770px;
+    left: 400px;
+    bottom: 790px;
     z-index: +10;
     background-color: white;
+    background: #f87429;
     max-width: fit-content;   
-    color: white; 
+    color: #f87429;
+    border-radius: 20rem;
 }
