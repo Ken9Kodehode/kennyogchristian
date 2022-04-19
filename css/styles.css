@@ -89,13 +89,13 @@ input {
     color: transparent;   
 }
 
-
-h1 {
-    position: fixed;
+#easter3 {
+    position: relative;
     left: 476px;
     bottom: 770px;
     z-index: +10;
     background-color: white;
     max-width: fit-content;   
     color: white; 
+}
 }

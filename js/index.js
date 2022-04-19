@@ -30,7 +30,7 @@ for(var i=0; i<6; i++){
    randcol += allchar[Math.floor(Math.random()*16)];
 }
 document.body.style.backgroundColor= "#"+randcol;
-document.getElementById("easter2").style.backgroundColor= "#"+randcol;
+document.getElementById("easter3").style.backgroundColor= "#"+randcol;
 }
 
 
@@ -46,5 +46,5 @@ for(var i=0; i<6; i++){
   randcol += allchar[Math.floor(Math.random()*16)];
 }
 document.body.style.backgroundColor= "#"+randcol;
-document.getElementById("easter2").style.backgroundColor= "#"+randcol;
+document.getElementById("easter3").style.backgroundColor= "#"+randcol;
 }
