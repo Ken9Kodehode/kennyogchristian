@@ -1,5 +1,8 @@
 /*CSS Styling*/
-
+body {
+    display: flexbox;
+    position: fixed;
+}
 /*Pluss figure position*/
 .pluss img {
     bottom: 675px;
@@ -97,5 +100,4 @@ input {
     background-color: white;
     max-width: fit-content;   
     color: white; 
-}
 }
