@@ -91,7 +91,7 @@ input {
 
 
 h1 {
-    position: relative;
+    position: fixed;
     left: 476px;
     bottom: 770px;
     z-index: +10;
